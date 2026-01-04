@@ -1,6 +1,6 @@
 # pygear
 
-Let's make weird, organic, and unique gears that look like whatever we want! 
+How to make organically-shaped gears? How to make weird gears, unique gears? You've come to the right place! 
 
 This is a gear maker (with gui!) based on the video ["How to make Organically-Shaped Gears"](https://youtu.be/3LdlSAN1yks) by Clayton Boyer. This approach is not suited to gears that drastically change their gear ratios, for example [nautilus gears](https://youtu.be/IUR-T4Nw-Sk).
 
