@@ -33,9 +33,7 @@ Before running the app code, manually create your input gear as a PNG image.
 5) Save the screenshot as a PNG image type (e.g. File > Export > PNG on Mac) 
 6) Confirm that you have python installed on your computer (open Terminal, type in python --version), you should see output such as "Python 3.12.7".
 7) Download create_gear.py (keep track of location where you download it)
-
-[create_gear.py.zip](https://github.com/user-attachments/files/24424404/create_gear.py.zip)
-
+   [create_gear.py.zip](https://github.com/user-attachments/files/24424404/create_gear.py.zip)
 
 9) In the Terminal app on your computer, navigate to the folder containing create_gear.py 
 10) Run `create_gear.py` (type "python create_gear.py" in the Terminal)
