@@ -40,10 +40,10 @@ Before running the app code, manually create your input gear as a PNG image.
 <img width="450" alt="GeneratedGear" src="https://github.com/user-attachments/assets/237eb6a5-2ac1-4e64-a5b8-1f85bb4fe7f0" />
 
 16) You'll be prompted to save a "crossbar" image. Save it. 
-<img width="450" alt="Crossbar" src="https://github.com/user-attachments/assets/c1abcdc4-24ca-4092-a69b-76b7889f290c" />
+<img width="250" alt="Crossbar" src="https://github.com/user-attachments/assets/c1abcdc4-24ca-4092-a69b-76b7889f290c" />
 
 17) Last, you have the option to download all files.
-<img width="650" alt="Screenshot 2026-01-04 at 12 50 29 PM" src="https://github.com/user-attachments/assets/2a40a48e-3279-42e7-a398-a61b592c85a6" />
+<img width="600" alt="Screenshot 2026-01-04 at 12 50 29 PM" src="https://github.com/user-attachments/assets/2a40a48e-3279-42e7-a398-a61b592c85a6" />
 
 19) So, for an input that looks like this:
 
