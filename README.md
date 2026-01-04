@@ -8,7 +8,8 @@ This is a gear maker based on the video ["How to make Organically-Shaped Gears"]
 
 ## Dependencies
 
-Requires numpy, tkinter and PIL (pillow). Written in Python 3.12.7. 
+Written in Python 3.12.7. Requires numpy, tkinter and PIL (pillow). 
+
 To install these libraries, type the following into the Terminal on your computer: 
 
 * pip install pillow
