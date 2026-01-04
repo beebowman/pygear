@@ -21,7 +21,8 @@ To install these libraries, type the following into the Terminal on your compute
 Before running the app code, manually create your input gear as a PNG image. 
 1) Open Word Document (or equivalent)
 2) Use Draw feature to draw a black outline of an organic/weird/unique gear
-<img width="700" alt="HowToCreateInputGearPNG" src="https://github.com/user-attachments/assets/dc48b5af-8580-489d-b386-e999ce8b51b7" />
+<img width="700" height="721" alt="HowToCreateInputGearPNG" src="https://github.com/user-attachments/assets/9e8f1ea6-1239-4809-8b40-b4e45f9ec15d" />
+
 
 4) Take a screenshot of just the gear outline
 5) Save the screenshot as a PNG image type (e.g. File > Export > PNG on Mac) 
