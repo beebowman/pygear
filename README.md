@@ -23,7 +23,7 @@ Before running the app code, manually create your input gear as a PNG image.
 2) Use Draw feature to draw a black outline of an organic/weird/unique gear
 <img width="700" alt="HowToCreateInputGearPNG" src="https://github.com/user-attachments/assets/dc48b5af-8580-489d-b386-e999ce8b51b7" />
 
-4) Take a screenshot of the gear
+4) Take a screenshot of just the gear outline
 5) Save the screenshot as a PNG image type (e.g. File > Export > PNG on Mac) 
 6) Confirm that you have python installed on your computer (open Terminal, type in python --version), you should see output such as "Python 3.12.7".
 7) Download main.py from this page (keep track of the location where you download it)
