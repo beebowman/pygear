@@ -37,6 +37,7 @@ Before running the app code, manually create your input gear as a PNG image.
 <img width="708.5" alt="crossbar" src="https://github.com/user-attachments/assets/36d83ed4-75c0-4a07-8de4-b9e92d6b0e4c" />
 
 
+
 If you want to change the gear generation parameters, edit the following variables at the start of `main.py`:
 * `gearRatio` is the gear ratio. For example, a ratio of 2 means the input gear completes two rotations in the time it takes the output gear to complete one rotation. Right now, this has to be an integer value.
 * `gearOverlap` controls how close the gears' axes are. It should be between 0.0 and 1.0. I'd say 1.0 is a good value to start with.
@@ -45,4 +46,3 @@ If you want to change the gear generation parameters, edit the following variabl
 ## TODO:
 
 * Set up animation (there is an aborted attempt in the file `animate.py`)
-* Make a GUI (probably in someting other than python?)
