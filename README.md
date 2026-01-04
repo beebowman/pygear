@@ -24,7 +24,9 @@ Run `main.py` and select your input gear shape (it will prompt you to select a f
 
 ...you'll get two outputs:
 
-![](https://github.com/settinger/pygear/blob/master/test_gear_out.png "Output") ![](https://github.com/settinger/pygear/blob/master/test_crossbar.png "Crossbar")
+<img width="2428" height="2428" alt="weirdgear_output_image" src="https://github.com/user-attachments/assets/b9edb4df-818c-4b60-9458-a72ed12bde9c" />
+
+<img width="1417" height="202" alt="crossbar" src="https://github.com/user-attachments/assets/36d83ed4-75c0-4a07-8de4-b9e92d6b0e4c" />
 
 If you want to change the gear generation parameters, edit the following variables at the start of `main.py`:
 * `gearRatio` is the gear ratio. For example, a ratio of 2 means the input gear completes two rotations in the time it takes the output gear to complete one rotation. Right now, this has to be an integer value.
