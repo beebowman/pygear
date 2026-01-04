@@ -10,8 +10,6 @@ This is a gear maker (with gui!) based on the video ["How to make Organically-Sh
 Credit to Sam Ettinger for inspiring me to make this pygear GUI! For more info on Sam's work, here's a link to non-GUI versions: 
 https://www.settinger.net/projects.php?project=gears 
 
-[create_gear.py.zip](https://github.com/user-attachments/files/24424404/create_gear.py.zip)
-
 
 ## Dependencies
 
@@ -35,9 +33,13 @@ Before running the app code, manually create your input gear as a PNG image.
 5) Save the screenshot as a PNG image type (e.g. File > Export > PNG on Mac) 
 6) Confirm that you have python installed on your computer (open Terminal, type in python --version), you should see output such as "Python 3.12.7".
 7) Download create_gear.py (keep track of location where you download it)
-8) In the Terminal app on your computer, navigate to the folder containing create_gear.py 
-9) Run `create_gear.py` (type "python create_gear.py" in the Terminal)
-10) Click on "Load Gear Image" to select your input gear shape (it will prompt you to select a file, so select your png gear file). The program assumes the center of the image is the center of the gear.
+
+[create_gear.py.zip](https://github.com/user-attachments/files/24424404/create_gear.py.zip)
+
+
+9) In the Terminal app on your computer, navigate to the folder containing create_gear.py 
+10) Run `create_gear.py` (type "python create_gear.py" in the Terminal)
+11) Click on "Load Gear Image" to select your input gear shape (it will prompt you to select a file, so select your png gear file). The program assumes the center of the image is the center of the gear.
 <img width="400" alt="Load Gear Image" src="https://github.com/user-attachments/assets/f0c21d1f-929e-4dff-a27e-bec24e581de8" />
 
 12) Keep parameters as-is (or modify) and click Run.
