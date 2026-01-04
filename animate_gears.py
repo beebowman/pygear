@@ -7,7 +7,7 @@ Animation for Pygear - GIF
 - Shows animation popup window
 - One full 360-degree rotation
 
-@author: Bo Bowman
+@author: beebowman
 @Date: January 4, 2026 
 
 """
