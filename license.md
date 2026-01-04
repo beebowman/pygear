@@ -1,6 +1,6 @@
 License for create_gear.py (GUI for Creation of Weird Gears) and animate_gears.py (Gear Animation) 
 
-Copyright (c) 2026, Bo Bowman
+Copyright (c) 2026, beebowman
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
