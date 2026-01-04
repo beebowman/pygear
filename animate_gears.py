@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Animation for Pygear - Optimized
+Animation for Pygear with GUI
+
+Author: beebowman
+Updated Jan 4, 2026
 
 Uses vectorized rotations and fast plotting for smooth animations.
 
-@author: Bo Bowman
 """
 
 import numpy as np
