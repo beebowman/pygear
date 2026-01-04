@@ -67,8 +67,8 @@ If you want to change the gear generation parameters, edit the following variabl
 To run an animation of your gears together: 
 1) In the Terminal app, run animate_gears.py (type in python animate_gears.py)
 2) Select your input gear PNG image, then your output gear PNG image
-3) Enter the gear ratio and gear overlap that you used when creating your gears
-   <img width="316" height="29" alt="Screenshot 2026-01-04 at 1 28 27 PM" src="https://github.com/user-attachments/assets/0c316bfb-b094-494a-84c4-e0b03ce8b77e" />
+3) Enter the gear ratio and gear overlap that you used when creating your gears:
+<img width="316" height="29" alt="Screenshot 2026-01-04 at 1 28 27 PM" src="https://github.com/user-attachments/assets/0c316bfb-b094-494a-84c4-e0b03ce8b77e" />
 
 5) View your pretty weird gears animation! :)
 <img width="524" height="373" alt="Screenshot 2026-01-04 at 1 28 30 PM" src="https://github.com/user-attachments/assets/c8c3b3ac-9cd9-4baa-b6a6-ac6af7a8ad08" />
