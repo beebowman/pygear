@@ -22,7 +22,7 @@ Run `main.py` and select your input gear shape (it will prompt you to select a f
 
 <img width="607" height="552" alt="weirdgear_input_image" src="https://github.com/user-attachments/assets/f50bb307-c287-4531-8074-69be5c4c657a" />
 
-<img width="300" alt="weirdgear_input_image" src="https://github.com/user-attachments/assets/f50bb307-c287-4531-8074-69be5c4c657a" />
+<img width="303.5" alt="weirdgear_input_image" src="https://github.com/user-attachments/assets/f50bb307-c287-4531-8074-69be5c4c657a" />
 
 
 ...you'll get two outputs:
