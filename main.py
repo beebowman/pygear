@@ -2,9 +2,13 @@
 """
 Updated Gear Math Python
 
+@author: beebowman
+Youtube Channel: @boheatherbowman7636 
+Jan 4, 2025 (updated code in 2025) 
+
 @author: Sam Ettinger
 EttingerSam@gmail.com
-May 19, 2016
+May 19, 2016 (original code) 
 
 TODO:
 Add a GUI?
