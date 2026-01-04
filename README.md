@@ -6,6 +6,10 @@ This is a gear maker (with gui!) based on the video ["How to make Organically-Sh
 
 [![Gear Demos: one success, one failure](https://img.youtube.com/vi/2XJWHQcnk54/0.jpg)](https://www.youtube.com/watch?v=2XJWHQcnk54)
 
+## Credit To
+Credit to Sam Ettinger for inspiring me to make this GUI! 
+https://www.settinger.net/projects.php?project=gears 
+
 ## Dependencies
 
 Written in Python 3.12.7. Requires numpy, tkinter and PIL (pillow). 
