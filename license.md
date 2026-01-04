@@ -1,4 +1,4 @@
-License for create_gear.py and animate_gears.py
+License for create_gear.py (GUI for Creation of Weird Gears) and animate_gears.py (Gear Animation) 
 
 Copyright (c) 2026, Bo Bowman
 All rights reserved.
