@@ -26,7 +26,7 @@ Before running the app code, manually create your input gear as a PNG image.
 4) Take a screenshot of just the gear outline
 5) Save the screenshot as a PNG image type (e.g. File > Export > PNG on Mac) 
 6) Confirm that you have python installed on your computer (open Terminal, type in python --version), you should see output such as "Python 3.12.7".
-7) Download main.py from this page (keep track of the location where you download it)
+7) Download main.py (keep track of location where you download it)
 8) In the Terminal app on your computer, navigate to the folder containing main.py 
 9) Run `main.py` (type "python main.py" in the Terminal)
 10) Select your input gear shape (it will prompt you to select a file, so select your png gear file). The program assumes the center of the image is the center of the gear. After some calculation time, the program will prompt you to save your output gear as an image file. It will then prompt you to save a "crossbar" image. So, for an input that looks like this:
