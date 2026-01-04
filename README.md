@@ -27,9 +27,9 @@ Before running the app code, manually create your input gear as a PNG image.
 4) Take a screenshot of just the gear outline
 5) Save the screenshot as a PNG image type (e.g. File > Export > PNG on Mac) 
 6) Confirm that you have python installed on your computer (open Terminal, type in python --version), you should see output such as "Python 3.12.7".
-7) Download main.py (keep track of location where you download it)
+7) Download create_gear.py (keep track of location where you download it)
 8) In the Terminal app on your computer, navigate to the folder containing main.py 
-9) Run `main.py` (type "python main.py" in the Terminal)
+9) Run `create_gear.py` (type "python create_gear.py" in the Terminal)
 10) Click on "Load Gear Image" to select your input gear shape (it will prompt you to select a file, so select your png gear file). The program assumes the center of the image is the center of the gear.
 <img width="400" alt="Load Gear Image" src="https://github.com/user-attachments/assets/f0c21d1f-929e-4dff-a27e-bec24e581de8" />
 
@@ -57,11 +57,19 @@ Before running the app code, manually create your input gear as a PNG image.
 
 ... and you can save them, convert them to 2D Sketches (svg, dxf) to physically create your own pair of functioning weird gears! 
 
-If you want to change the gear generation parameters, edit the following variables at the start of `main.py`:
+If you want to change the gear generation parameters, edit the following variables at the start of `create_gear.py`:
 * `gearRatio` is the gear ratio. For example, a ratio of 2 means the input gear completes two rotations in the time it takes the output gear to complete one rotation. Right now, this has to be an integer value.
 * `gearOverlap` controls how close the gears' axes are. It should be between 0.0 and 1.0. I'd say 1.0 is a good value to start with.
 * `computationSteps` is the number of steps in the image processing process. Too few steps and you'll be left with lots of speckles and noise outside output gear perimeter. Too many steps and you'll waste computer time without seeing much of an effect. 1000 is a good value to start with.
 
-## TODO:
+## ANIMATION:
 
-* Set up animation (there is an aborted attempt in the file `animate.py`)
+To run an animation of your gears together: 
+1) In the Terminal app, run animate_gears.py (type in python animate_gears.py)
+2) Select your input gear PNG image, then your output gear PNG image
+3) Enter the gear ratio and gear overlap that you used when creating your gears
+   <img width="316" height="29" alt="Screenshot 2026-01-04 at 1 28 27 PM" src="https://github.com/user-attachments/assets/0c316bfb-b094-494a-84c4-e0b03ce8b77e" />
+
+5) View your pretty weird gears animation! :)
+<img width="524" height="373" alt="Screenshot 2026-01-04 at 1 28 30 PM" src="https://github.com/user-attachments/assets/c8c3b3ac-9cd9-4baa-b6a6-ac6af7a8ad08" />
+
