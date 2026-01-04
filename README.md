@@ -34,7 +34,7 @@ Before running the app code, manually create your input gear as a PNG image.
 <img width="400" alt="Load Gear Image" src="https://github.com/user-attachments/assets/f0c21d1f-929e-4dff-a27e-bec24e581de8" />
 
 12) Keep parameters as-is (or modify) and click Run.
-<img width="550" alt="EnterParameters" src="https://github.com/user-attachments/assets/e829dbcb-1e88-4a68-a559-eab2a0b5f99c" />
+<img width="500" alt="EnterParameters" src="https://github.com/user-attachments/assets/e829dbcb-1e88-4a68-a559-eab2a0b5f99c" />
 
 14) After some time, the program will output a gear that will functional work together with your original gear image. Save it. 
 <img width="450" alt="GeneratedGear" src="https://github.com/user-attachments/assets/237eb6a5-2ac1-4e64-a5b8-1f85bb4fe7f0" />
