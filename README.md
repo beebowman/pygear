@@ -37,7 +37,7 @@ Before running the app code, manually create your input gear as a PNG image.
 <img width="500" alt="EnterParameters" src="https://github.com/user-attachments/assets/e829dbcb-1e88-4a68-a559-eab2a0b5f99c" />
 
 14) After some time, the program will output a gear that will functional work together with your original gear image. Save it. 
-<img width="450" alt="GeneratedGear" src="https://github.com/user-attachments/assets/237eb6a5-2ac1-4e64-a5b8-1f85bb4fe7f0" />
+<img width="430" alt="GeneratedGear" src="https://github.com/user-attachments/assets/237eb6a5-2ac1-4e64-a5b8-1f85bb4fe7f0" />
 
 16) You'll be prompted to save a "crossbar" image. Save it. 
 <img width="350" alt="Crossbar" src="https://github.com/user-attachments/assets/c1abcdc4-24ca-4092-a69b-76b7889f290c" />
