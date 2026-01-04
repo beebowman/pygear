@@ -30,7 +30,22 @@ Before running the app code, manually create your input gear as a PNG image.
 7) Download main.py (keep track of location where you download it)
 8) In the Terminal app on your computer, navigate to the folder containing main.py 
 9) Run `main.py` (type "python main.py" in the Terminal)
-10) Select your input gear shape (it will prompt you to select a file, so select your png gear file). The program assumes the center of the image is the center of the gear. After some calculation time, the program will prompt you to save your output gear as an image file. It will then prompt you to save a "crossbar" image. So, for an input that looks like this:
+10) Click on "Load Gear Image" to select your input gear shape (it will prompt you to select a file, so select your png gear file). The program assumes the center of the image is the center of the gear.
+<img width="678" height="481" alt="Load Gear Image" src="https://github.com/user-attachments/assets/f0c21d1f-929e-4dff-a27e-bec24e581de8" />
+
+12) Keep parameters as-is (or modify) and click Run.
+<img width="658" height="696" alt="EnterParameters" src="https://github.com/user-attachments/assets/e829dbcb-1e88-4a68-a559-eab2a0b5f99c" />
+
+14) After some time, the program will output a gear that will functional work together with your original gear image. Save it. 
+<img width="535" height="641" alt="GeneratedGear" src="https://github.com/user-attachments/assets/237eb6a5-2ac1-4e64-a5b8-1f85bb4fe7f0" />
+
+16) You'll be prompted to save a "crossbar" image. Save it. 
+<img width="546" height="211" alt="Crossbar" src="https://github.com/user-attachments/assets/c1abcdc4-24ca-4092-a69b-76b7889f290c" />
+
+17) Last, you have the option to download all files.
+<img width="740" height="396" alt="Screenshot 2026-01-04 at 12 50 29 PM" src="https://github.com/user-attachments/assets/2a40a48e-3279-42e7-a398-a61b592c85a6" />
+
+19) So, for an input that looks like this:
 
 <img width="303.5" alt="weirdgear_input_image" src="https://github.com/user-attachments/assets/f50bb307-c287-4531-8074-69be5c4c657a" />
 
