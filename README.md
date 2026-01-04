@@ -34,12 +34,10 @@ Before running the app code, manually create your input gear as a PNG image.
 
 <img width="303.5" alt="weirdgear_input_image" src="https://github.com/user-attachments/assets/f50bb307-c287-4531-8074-69be5c4c657a" />
 
-...you'll get two outputs:
+...you'll get two outputs (generated gear, and crossbar distance between gear centers):
 
-Generated output gear: 
 <img width="1214" alt="weirdgear_output_image" src="https://github.com/user-attachments/assets/b9edb4df-818c-4b60-9458-a72ed12bde9c" />
 
-Crossbar (Between Gear Centers) 
 <img width="708.5" alt="crossbar" src="https://github.com/user-attachments/assets/36d83ed4-75c0-4a07-8de4-b9e92d6b0e4c" />
 
 
