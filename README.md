@@ -9,12 +9,10 @@ This is a gear maker based on the video ["How to make Organically-Shaped Gears"]
 ## Dependencies
 
 Requires numpy, tkinter and PIL (pillow). Written in Python 3.12.7. 
-
 To install these libraries, type the following into the Terminal on your computer: 
 
-pip install pillow
-
-pip install numpy
+* pip install pillow
+* pip install numpy
 
 (Tkinter is part of the Python standard library)
 
