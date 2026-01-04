@@ -43,7 +43,7 @@ Before running the app code, manually create your input gear as a PNG image.
 <img width="350" alt="Crossbar" src="https://github.com/user-attachments/assets/c1abcdc4-24ca-4092-a69b-76b7889f290c" />
 
 17) Last, you have the option to download all files.
-<img width="600" alt="Screenshot 2026-01-04 at 12 50 29 PM" src="https://github.com/user-attachments/assets/2a40a48e-3279-42e7-a398-a61b592c85a6" />
+<img width="580" alt="Screenshot 2026-01-04 at 12 50 29 PM" src="https://github.com/user-attachments/assets/2a40a48e-3279-42e7-a398-a61b592c85a6" />
 
 19) So, for an input that looks like this:
 
