@@ -21,12 +21,12 @@ To install these libraries, type the following into the Terminal on your compute
 Before running the app code, manually create your input gear as a PNG image. 
 1) Open Word Document (or equivalent)
 2) Use Draw feature to draw a black outline of an organic/weird/unique gear
-<img width="980" height="719" alt="HowToCreateInputGearPNG" src="https://github.com/user-attachments/assets/dc48b5af-8580-489d-b386-e999ce8b51b7" />
+<img width="700" alt="HowToCreateInputGearPNG" src="https://github.com/user-attachments/assets/dc48b5af-8580-489d-b386-e999ce8b51b7" />
+
 4) Take a screenshot of the gear
-5) Save the screenshot as a PNG image type
+5) Save the screenshot as a PNG image type (e.g. File > Export > PNG on Mac) 
 
-
-Run `main.py` and select your input gear shape (it will prompt you to select a file, so select your png gear file). The program assumes the center of the image is the center of the gear. After some calculation time, the program will prompt you to save your output gear as an image file. It will then prompt you to save a "crossbar" image. So, for an input that looks like this:
+6) Run `main.py` and select your input gear shape (it will prompt you to select a file, so select your png gear file). The program assumes the center of the image is the center of the gear. After some calculation time, the program will prompt you to save your output gear as an image file. It will then prompt you to save a "crossbar" image. So, for an input that looks like this:
 
 <img width="303.5" alt="weirdgear_input_image" src="https://github.com/user-attachments/assets/f50bb307-c287-4531-8074-69be5c4c657a" />
 
