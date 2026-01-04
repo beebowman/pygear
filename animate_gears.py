@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Animation for Pygear - GIF + Optional MP4 Export
+Animation for Pygear - GIF 
 
 - Always saves a GIF using Pillow (no ffmpeg needed)
 - Saves MP4 automatically if ffmpeg is available
@@ -8,6 +8,8 @@ Animation for Pygear - GIF + Optional MP4 Export
 - One full 360-degree rotation
 
 @author: Bo Bowman
+@Date: January 4, 2026 
+
 """
 
 import numpy as np
