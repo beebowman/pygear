@@ -31,7 +31,7 @@ Before running the app code, manually create your input gear as a PNG image.
 8) In the Terminal app on your computer, navigate to the folder containing main.py 
 9) Run `main.py` (type "python main.py" in the Terminal)
 10) Click on "Load Gear Image" to select your input gear shape (it will prompt you to select a file, so select your png gear file). The program assumes the center of the image is the center of the gear.
-<img width="678" height="481" alt="Load Gear Image" src="https://github.com/user-attachments/assets/f0c21d1f-929e-4dff-a27e-bec24e581de8" />
+<img width="400" height="481" alt="Load Gear Image" src="https://github.com/user-attachments/assets/f0c21d1f-929e-4dff-a27e-bec24e581de8" />
 
 12) Keep parameters as-is (or modify) and click Run.
 <img width="658" height="696" alt="EnterParameters" src="https://github.com/user-attachments/assets/e829dbcb-1e88-4a68-a559-eab2a0b5f99c" />
